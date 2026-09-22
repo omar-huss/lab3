@@ -23,7 +23,7 @@ public class adressbook {
             adressbook adressbook = new adressbook();
             adressbook.addBuddy(buddy);
             adressbook.removeBuddy(buddy);
-
+            System.out.println("hello world");
         }
 
     }
