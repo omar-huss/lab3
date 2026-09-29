@@ -25,7 +25,7 @@ public class adressbook {
             adressbook.removeBuddy(buddy);
             System.out.println("hello world");
             System.out.println("hello world but done online (wow)");
-            System.out.println("BRANCH PUSH WOW");
+            System.out.println("BRANCH PUSH WOWZA");
         }
 
 
